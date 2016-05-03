@@ -1,0 +1,14 @@
+{
+  "name": "stamplay-swak",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "stamplay-cli": "^1.4.3"
+  }
+}
